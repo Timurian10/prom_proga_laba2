@@ -4,8 +4,7 @@ int main() {
     printf("Hello world!\n");
     return 0;
 }
-
-int sum(float a, float b) {
+float sum(float a, float b) {
     return a + b;
 }
 
