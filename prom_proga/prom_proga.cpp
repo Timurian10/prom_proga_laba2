@@ -2,7 +2,7 @@
 
 int main() {
     printf("Hello world!\n");
-    printf("Develop\n");
+    printf("ConflictС\n");
     return 0;
 }
 float sum(float a, float b) {
