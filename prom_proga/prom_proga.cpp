@@ -2,8 +2,7 @@
 
 int main() {
     printf("Hello world!\n");
-    printf("ConflictB\n");
-    printf("Develop");
+    printf("Develop\n");
     return 0;
 }
 float sum(float a, float b) {
