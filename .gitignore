@@ -4,6 +4,21 @@
 *.dll *.so *.so.* *.dylib
 *.exe *.out *.app
 *.dSYM/ *.su *.idb *.pdb
+
 build/ Debug/ Release/
-.vscode/
+x64/ x86/
 .vs/
+
+*.vcxproj.user
+*.sln.docstates
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.vcxproj.filters
+
+*.log
+*.tlog
+*.recipe
+*.ilk
+*.lastbuildstate
