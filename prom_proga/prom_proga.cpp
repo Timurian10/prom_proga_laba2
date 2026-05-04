@@ -5,10 +5,12 @@ int main() {
     return 0;
 }
 
-int sum(int a, int b) {
+int sum(float a, float b) {
     return a + b;
 }
 
 int sub(int a, int b) {
+    if (a - b < 0)
+        return 0;
     return a - b;
 }
